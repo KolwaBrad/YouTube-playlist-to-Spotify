@@ -7,7 +7,6 @@ A Python tool that automatically transfers songs from a YouTube playlist to Spot
 - 🎵 Extracts songs from any public YouTube playlist
 - 🔍 Smart song title parsing and matching
 - 🎯 Intelligent search algorithm to find the best matches on Spotify
-- 📊 Detailed reporting of matched and unmatched songs
 - 🔐 Secure authentication with both YouTube and Spotify APIs
 - 💫 User-friendly interface with clear progress indicators
 
